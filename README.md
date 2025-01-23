@@ -1,49 +1,40 @@
-## Hi there I'm Tayyip Köse! 👋
+# Tayyip Köse 👋
 
-🌟 **Frontend Developer & Computer Programming Student**  
+**Frontend Developer & Computer Programming Enthusiast**
+<span>I love coding </span>
 
 ---
 
 ### 🛠️ Tech Stack
+
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 600px;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&logoWidth=30&color=E34F26" alt="HTML5" />
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&logoWidth=30&color=1572B6" alt="CSS3" />
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3&logoWidth=30&color=7952B3" alt="Bootstrap" />
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&logoWidth=30&color=F7DF1E" alt="JavaScript" />
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6&logoWidth=30&color=3178C6" alt="TypeScript" />
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031&logoWidth=30&color=DD0031" alt="Angular" />
-    </div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
 </div>
 
 ---
 
-### 💻 IDEs I Use
+### 💻 IDEs
+
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 600px;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/WebStorm-007ACC?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=007ACC&logoWidth=30&color=007ACC" alt="WebStorm" />
-    </div>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/>
 </div>
 
 ---
 
-### 🌐 Let's Connect!
+> "Kod yazmak sadece bir dil konuşmak değil, bir sanat eseri yaratmaktır." - Tayyip Köse
+
+---
+
+### 🌐Let's Connect!
+
 <div align="center">
-  <a href="https://tr.linkedin.com/in/tayyip-k%C3%B6se-4b5593284" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30&color=0A66C2" alt="LinkedIn" />
+  <a href="https://tr.linkedin.com/in/tayyip-k%C3%B6se-4b5593284" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
+  <!-- Diğer sosyal medya bağlantıları buraya eklenebilir -->
 </div>
