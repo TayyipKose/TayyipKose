@@ -2,8 +2,6 @@
 
 🌟 **Frontend Developer & Computer Programming**  
 
----
-
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&logoWidth=30&color=E34F26" alt="HTML5" />
@@ -14,23 +12,15 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031&logoWidth=30&color=DD0031" alt="Angular" />
 </div>
 
----
 
-### 💻 Tools
+💻 IDEs I Use
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&logoWidth=30&color=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=30&color=181717" alt="GitHub" />
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=000000&logoWidth=30&color=000000" alt="WebStorm" />
+<img src="https://img.shields.io/badge/WebStorm-007ACC?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=007ACC&logoWidth=30&color=007ACC" alt="WebStorm" />
 </div>
 
----
 
 ### 🌐 Let's Connect!
 <div align="center">
-  <a href="https://github.com/TayyipKose">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=30&color=181717" alt="GitHub" />
-  </a>
-  
 <a href="https://tr.linkedin.com/in/tayyip-k%C3%B6se-4b5593284" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30&color=0A66C2" alt="LinkedIn" />
 </a>
