@@ -30,7 +30,8 @@
   <a href="https://github.com/TayyipKose">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=30&color=181717" alt="GitHub" />
   </a>
-  <a href="#" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30&color=0A66C2](https://tr.linkedin.com/in/tayyip-k%C3%B6se-4b5593284)" alt="LinkedIn" />
+  <a href="[https://tr.linkedin.com/in/tayyip-k%C3%B6se-4b5593284](https://tr.linkedin.com/in/tayyip-k%C3%B6se-4b5593284)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30&color=0A66C2" alt="LinkedIn" />
+  </a>
   </a>
 </div>
