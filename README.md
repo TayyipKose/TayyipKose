@@ -1,6 +1,7 @@
 # Tayyip Köse 👋
 
 **Frontend Developer & Computer Programming Enthusiast**
+<br>
 <span>I love coding </span>
 
 ---
@@ -23,12 +24,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/>
 </div>
-
----
-
-> "Kod yazmak sadece bir dil konuşmak değil, bir sanat eseri yaratmaktır." - Tayyip Köse
-
----
 
 ### 🌐Let's Connect!
 
