@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Tayyip Köse! 
 
-<!--
-**TayyipKose/TayyipKose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a **Frontend Developer** with a strong passion for crafting beautiful and functional user interfaces. I specialize in building responsive and scalable web applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages & Frameworks:** HTML, CSS, Bootstrap, TypeScript, Angular  
+- **Tools & Platforms:** Git, GitHub  
+- **IDE:** WebStorm  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Love
+- Turning ideas into elegant and user-friendly designs.
+- Writing clean, maintainable, and efficient code.
+- Continuously learning and exploring new technologies in the frontend world.
+
+### Let's Connect!
+- [GitHub](https://github.com/TayyipKose)
+- [LinkedIn](#) *(Add your LinkedIn profile link here)*
+
+Feel free to explore my repositories and projects! 🚀
