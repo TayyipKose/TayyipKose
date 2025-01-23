@@ -1,72 +1,36 @@
-# 👋 Merhaba, Ben Tayyip Köse
+## Hi there 👋 I'm Tayyip Köse!
 
-<h2 align="center">🌟 <i>Frontend Geliştirici</i></h2>
-
-<p align="center">
-  <img src="https://github.com/TayyipKose/TayyipKose/blob/main/assets/banner.png" alt="Banner" width="800"/>
-</p>
+🌟 **Frontend Developer**  
 
 ---
 
-### 🛠️ **Yazılım Yığını**
-
-<p align="center">
-  <a href="https://developer.mozilla.org/tr/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/tr/docs/Web/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://angular.io/"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
-</p>
-
----
-
-### 💻 **Araçlar**
-
-<p align="center">
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/webstorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" /></a>
-</p>
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&logoWidth=30&color=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&logoWidth=30&color=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3&logoWidth=30&color=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&logoWidth=30&color=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6&logoWidth=30&color=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031&logoWidth=30&color=DD0031" alt="Angular" />
+</div>
 
 ---
 
-### 🌐 **Bağlanalım Mı?**
-
-<p align="center">
-  <a href="https://github.com/TayyipKose"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
----
-
-### 🚀 **Hakkımda**
-
-- **🔥 Şu an öğreniyorum:** Modern ön uç çerçeveleri ve durum yönetimi hakkında daha fazlasını.
-- **🤝 İşbirliği yapmak istediğim:** Kullanıcı etkileşimini sınırlarını zorlayan yenilikçi web projeleri.
-- **🔬 Şu anda çalışıyorum:** Kişisel bir proje ile, yüksek etkileşimli bir web uygulaması üzerinde.
-- **📫 Benimle nasıl iletişime geçebilirsin:** [Email](mailto:your.email@example.com)
+### 💻 Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&logoWidth=30&color=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=30&color=181717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=000000&logoWidth=30&color=000000" alt="WebStorm" />
+</div>
 
 ---
 
-### 📈 **İstatistikler & Katkılar**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TayyipKose&show_icons=true&theme=tokyonight" alt="Tayyip'in GitHub İstatistikleri" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TayyipKose&theme=tokyonight" alt="Tayyip'in GitHub Çizgisi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayyipKose&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-</p>
-
----
-
-### 🏆 **Sabitlenmiş Depolar**
-
-- **[Proje Adı 1](URL)** - Projenin kısa açıklaması.
-- **[Proje Adı 2](URL)** - Başka bir proje için kısa açıklama.
-
----
-
-Ziyaretiniz için teşekkür ederim! Çalışmalarımı keşfetmekten veya iletişime geçmekten çekinmeyin. Birlikte harika şeyler yaratabiliriz!
+### 🌐 Let's Connect!
+<div align="center">
+  <a href="https://github.com/TayyipKose">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=30&color=181717" alt="GitHub" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30&color=0A66C2](https://tr.linkedin.com/in/tayyip-k%C3%B6se-4b5593284)" alt="LinkedIn" />
+  </a>
+</div>
