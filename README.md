@@ -1,4 +1,4 @@
-# Tayyip Köse 👋
+# Tayyip Köse
 
 **Frontend Developer & Computer Programming**
 
