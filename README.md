@@ -23,7 +23,7 @@ Frontend Developer & Computer Programming
 ### Let's Connect!
 
 <div align="center">
-  <a href="https://tr.linkedin.com/in/tayyip-k%C3%B6se-4b5593284" target="_blank">
+  <a href="https://tr.linkedin.com/in/tayyip-kose" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
 </div>
